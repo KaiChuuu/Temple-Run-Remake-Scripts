@@ -1,4 +1,4 @@
-## Temple-Run-Remake
+## Temple-Run-Remake-Scripts
 Recreation of the classic temple run game in Unity!
 
 Link to game and more details <b>(please click!)</b>  
