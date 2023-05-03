@@ -16,7 +16,7 @@ or <b>Arrow Keys</b>.
 - [Wenrexa UI Kit](https://wenrexa.itch.io/ui-different02) 
 - [Mixamo for models](https://www.mixamo.com/#/)
 
-<i>Git only contains scripts due to Standard Unity Asset Store EULA for Assets<i/>
+<i>Git only contains scripts due to Standard Unity Asset Store EULA for Assets</i>
 
 ## Audio used
 - Temple Run music/sound effects
