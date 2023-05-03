@@ -1,5 +1,5 @@
 ## Temple-Run-Remake
- Recreation of the classic temple run game in Unity!
+Recreation of the classic temple run game in Unity!
 
 Link to game and more details <b>(please click!)</b>  
 <b>https://happyteam.itch.io/temple-run-remake</b>
@@ -15,6 +15,8 @@ or <b>Arrow Keys</b>.
 - [Golden disc Ren'py GUI Font](https://skolaztika.itch.io/golden-disc-renpy-gui)
 - [Wenrexa UI Kit](https://wenrexa.itch.io/ui-different02) 
 - [Mixamo for models](https://www.mixamo.com/#/)
+
+<i>Git only contains scripts due to Standard Unity Asset Store EULA for Assets<i/>
 
 ## Audio used
 - Temple Run music/sound effects
