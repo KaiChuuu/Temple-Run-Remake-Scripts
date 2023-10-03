@@ -8,6 +8,16 @@ Link to game and more details <b>(please click!)</b>
 <b>W</b> (jump), <b>A</b> (roll), <b>S</b> and <b>D</b> (move left and right)  
 or <b>Arrow Keys</b>.
 
+## Features
+- Level design (coin paths, paths, islands, temple)
+- Path Generation
+- Path Turn Sequence (Allows for early player input, and utilizes quaternions to align turn to next path)
+- Cinematic start sequence using Cinemachine
+- Scriptable Objects (Paths and Turns)
+- Easter egg :)
+- Player movement animations and sequences (allows for abrupt cutoffs to next moves)
+- Animated UI interface (in game, menu, end screen)
+  
 ## Assets used
 - [Eternal Temple](https://assetstore.unity.com/packages/3d/environments/fantasy/eternal-temple-65780)
 - [Cowboy Hat](https://assetstore.unity.com/packages/3d/props/clothing/cowboy-hat-1-200835)
