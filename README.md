@@ -17,6 +17,7 @@ or <b>Arrow Keys</b>.
 - Easter egg :)
 - Player movement animations and sequences (allows for abrupt cutoffs to next moves)
 - Animated UI interface (in game, menu, end screen)
+- Music (Ingame music, and sound effects) 
   
 ## Assets used
 - [Eternal Temple](https://assetstore.unity.com/packages/3d/environments/fantasy/eternal-temple-65780)
